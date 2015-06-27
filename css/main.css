@@ -1638,7 +1638,7 @@ hr {
 #team-wrapper .member-name {
 	display: inline-block;
 	padding-top: 9px;
-	margin-left: 12px;
+	margin-left: 0px;
 }
 #team-wrapper .member-name h3 {
 	line-height: 24px;
