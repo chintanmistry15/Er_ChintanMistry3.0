@@ -484,7 +484,7 @@ different heights to align properly. */
 @media screen and (max-width:900px) {
 	/* block grids for small screens */
 	.s-bgrid-sixth .bgrid {
-		width: 16.66667%;
+		width: 16.66667%; 
 	}
 	.s-bgrid-fourth .bgrid {
 		width: 25%;
