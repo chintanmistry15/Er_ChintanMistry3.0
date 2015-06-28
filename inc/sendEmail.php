@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+$siteOwnersEmail = 'chintanmistry.00@gmail.com';
 
 
 if($_POST) {
@@ -29,7 +29,7 @@ if($_POST) {
 		$error['message'] = "Please enter your message. It should have at least 15 characters.";
 	}
    // Subject
-	if ($subject == '') { $subject = "Contact Form Submission"; }
+	if ($subject == '') { $subject = "Resume Contact/Suggestion"; }
 
 	// Set Name
 	$name = $fname . " " . $lname;
