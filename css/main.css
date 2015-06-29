@@ -20,7 +20,7 @@
     k. Hero Section
     l. aventador Section
     m. skills Section
-    n. About Section
+    n. responsibilities Section
     o. Journal Section
     p. Contact Section
     q. Blog Entry
@@ -1060,7 +1060,7 @@ footer p {
 	margin: 12px 0;
 }
 
-footer .footer-about {
+footer .footer-responsibilities {
 	padding-right: 60px;
 }
 footer .right-cols .columns {
@@ -1576,36 +1576,36 @@ hr {
 
 
 /* 
-/*  n. About Section
+/*  n. responsibilities Section
 /* =================================================================== */
 
-#about {
+#responsibilities {
 	background: white;
 	padding-top: 120px;
 	padding-bottom: 0;
 }
-#about .about-content {
+#responsibilities .responsibilities-content {
 	max-width: 934px;
 }
-#about h3 {
+#responsibilities h3 {
 	font: 16px/36px "raleway-heavy", sans-serif;
 	text-transform: none;
 	padding: 0;
 	margin-bottom: 0;
 }
-#about p {
+#responsibilities p {
 	color: #707273;
 }
-#about .left {
+#responsibilities .left {
 	padding-right: 30px;
 }
-#about .right {
+#responsibilities .right {
 	padding-left: 30px;
 }
 
 /* Team Section
 /* -------------------------------------------------------------------- */
-#about #team {
+#responsibilities #team {
 	background: #ecf0f1;
 	margin-top: 66px;
 	padding-top: 78px;
