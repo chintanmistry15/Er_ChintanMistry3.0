@@ -18,13 +18,13 @@
     i. Footer Styles
     j. Common and shared styles
     k. Hero Section
-    l. Portfolio Section
+    l. aventador Section
     m. Services Section
     n. About Section
     o. Journal Section
     p. Contact Section
     q. Blog Entry
-    r. Portfolio Entry
+    r. aventador Entry
 
 /* =================================================================== */
 
@@ -1439,25 +1439,25 @@ hr {
 }
 
 /* 
-/* l. Portfolio Section
+/* l. aventador Section
 /* =================================================================== */
-#portfolio {
+#aventador {
 	background: white;
 	padding-top: 120px;
 }
-.ie #portfolio .row.items {
+.ie #aventador .row.items {
 	width: 1140px;
 }
-#portfolio .row.items {
+#aventador .row.items {
 	max-width: 1200px;
 }
 
-/* Portfolio wrapper */
-#portfolio-wrapper {
+/* aventador wrapper */
+#aventador-wrapper {
 	margin-top: 36px;
 }
 
-/* portfolio items */
+/* aventador items */
 .item .item-wrap {
 	overflow: hidden;
 	position: relative;
@@ -1491,7 +1491,7 @@ hr {
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.item .item-wrap .portfolio-item-meta {
+.item .item-wrap .aventador-item-meta {
 	position: absolute;
 	top: 10%;
 	left: 10%;
@@ -1505,13 +1505,13 @@ hr {
 	-ms-transition: opacity 0.3s ease-in-out;
 	transition: opacity 0.3s ease-in-out;
 }
-.item .item-wrap .portfolio-item-meta h5 {
+.item .item-wrap .aventador-item-meta h5 {
 	font: 15px/21px "raleway-heavy", sans-serif;
 	margin: 0;
 	color: white;
 	word-wrap: break-word;
 }
-.item .item-wrap .portfolio-item-meta p {
+.item .item-wrap .aventador-item-meta p {
 	font: 14px/18px "raleway-semibold", sans-serif;
 	color: #fbcab3;
 	margin: 0;
@@ -1524,7 +1524,7 @@ hr {
 	opacity: 1;
 	zoom: 1;
 }
-.item:hover .portfolio-item-meta {
+.item:hover .aventador-item-meta {
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	opacity: 1;
@@ -1967,22 +1967,22 @@ hr {
 
 
 /* 
-/* r. Portfolio Entry
+/* r. aventador Entry
 /* =================================================================== */
 
-.portfolio-content .entry header {
+.aventador-content .entry header {
 	text-align: center;
 }
-.portfolio-content .entry .entry-content-media {
+.aventador-content .entry .entry-content-media {
 	margin: 30px 0 0;
 }
-.portfolio-content .entry .entry-content-media img {
+.aventador-content .entry .entry-content-media img {
 	margin-bottom: 24px;
 }
-.portfolio-content .entry .pagenav {
+.aventador-content .entry .pagenav {
 	margin-top: 0;
 }
-.portfolio-content .entry .pagenav a[rel="next"]:after {
+.aventador-content .entry .pagenav a[rel="next"]:after {
 	float: right;
 }
 
@@ -1996,6 +1996,6 @@ hr {
 	text-align: center;
 	margin-bottom: 0;
 }
-.more-projects .portfolio-wrapper {
+.more-projects .aventador-wrapper {
 	text-align: left;
 }
