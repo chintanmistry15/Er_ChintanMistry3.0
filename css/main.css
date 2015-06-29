@@ -19,7 +19,7 @@
     j. Common and shared styles
     k. Hero Section
     l. aventador Section
-    m. Services Section
+    m. skills Section
     n. About Section
     o. Journal Section
     p. Contact Section
@@ -1539,23 +1539,23 @@ hr {
 }
 
 /* 
-/*  m. Services Section
+/*  m. skills Section
 /* =================================================================== */
-#services {
+#skills {
 	background: #ecf0f1;
 	padding-top: 120px;
 	padding-bottom: 120px;
 	text-align: center;
 }
-.service-list {
+.skills-list {
 	margin: 15px -22px 0 -22px;
 }
-.service-list .bgrid {
+.skills-list .bgrid {
 	margin-top: 15px;
 	margin-bottom: 15px;
 	padding: 0 22px;
 }
-.service-list .icon-part {
+.skills-list .icon-part {
 	background: #f26522;
 	color: white;
 	width: 72px;
@@ -1564,11 +1564,11 @@ hr {
 	border-radius: 3px;
 	margin: 0 auto;
 }
-.service-list h3 {
+.skills-list h3 {
 	font: 16px/24px "raleway-heavy", sans-serif;
 	padding: 0;
 }
-.service-list p {
+.skills-list p {
 	color: #707273;
 	position: relative;
 	top: -6px;
