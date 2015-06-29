@@ -817,7 +817,7 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0 20px 0 0;
+	margin: -5 20px 0 0;
 	padding: 0;
 	border: none;
 	outline: none;
