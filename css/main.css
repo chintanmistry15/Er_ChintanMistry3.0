@@ -21,7 +21,7 @@
     l. aventador Section
     m. skills Section
     n. responsibilities Section
-    o. Journal Section
+    o. projects Section
     p. Contact Section
     q. Blog Entry
     r. aventador Entry
@@ -1673,9 +1673,9 @@ hr {
 
 
 /* 
-/*  o. Journal Section
+/*  o. projects Section
 /* =================================================================== */
-#journal {
+#projects {
 	background: #a43b0a url(../images/blog-bg.jpg) no-repeat bottom center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
@@ -1684,29 +1684,29 @@ hr {
 	padding-bottom: 108px;
 	width: 100%;
 }
-#journal h1, #journal h3, #journal h3 a {
+#projects h1, #projects h3, #projects h3 a {
 	color: white;
 }
-#journal h3 {
+#projects h3 {
 	font: 16px/27px "raleway-heavy", sans-serif;
 	padding: 0;
 	margin: 0;
 }
-#journal h5 {
+#projects h5 {
 	font-size: 18px;
 	color: #f26522;
 	margin: 0;
 }
-#journal p {
+#projects p {
 	color: #fffcfb;
 }
-#journal #blog-wrapper {
+#projects #blog-wrapper {
 	margin: 24px 0 0 0;
 }
-#journal #blog-wrapper .bgrid {
+#projects #blog-wrapper .bgrid {
 	padding: 0 18px;
 }
-#journal #blog-wrapper article {
+#projects #blog-wrapper article {
 	margin-bottom: 24px;
 }
 
